@@ -1,0 +1,4571 @@
+{
+   "totalRecords": 12671,
+   "startIndex": 11850,
+   "metadata":
+   {
+      "parent":
+      {
+         "nodeRef": "workspace://SpacesStore/0267fd5c-b7d5-4754-9328-c33449011680",
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false
+            }
+         }
+      }
+   },
+   "items":
+   [
+      {
+         "nodeRef": "workspace://SpacesStore/f02858d2-2be9-4d16-bde2-d37ec94ffc94",
+         "createdOn": "2016-10-03T16:11:33.773-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:33.773-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/a145e412-e45e-458e-a05e-578c9ca7b90d",
+   "metadata": "document",
+   "displayValue": "734_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "1",
+   "displayValue": "1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "734-B7",
+   "displayValue": "734-B7"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-27T00:00:00.000-05:00",
+   "displayValue": "2016-07-27T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Custer Playfield",
+   "displayValue": "Custer Playfield"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "734",
+   "displayValue": "734"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f02963a8-aa07-45d1-9f4e-bb94e096eb94",
+         "createdOn": "2016-10-03T16:28:12.541-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:28:12.541-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/6a45e18a-d165-4330-b42a-f9e7a4397150",
+   "metadata": "document",
+   "displayValue": "Rpt_1608C33_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "19A",
+   "displayValue": "19A"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "217-B68",
+   "displayValue": "217-B68"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-11T00:00:00.000-05:00",
+   "displayValue": "2016-08-11T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Hi-Mount Boulevard School",
+   "displayValue": "Hi-Mount Boulevard School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "217",
+   "displayValue": "217"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f02bb933-b9eb-4051-9cf4-9de425c29fac",
+         "createdOn": "2016-10-03T18:15:50.685-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:15:50.685-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/ee240cbf-66e0-4c83-9a4d-c85a1a77a694",
+   "metadata": "document",
+   "displayValue": "360_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "214",
+   "displayValue": "214"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "360-B80",
+   "displayValue": "360-B80"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-29T00:00:00.000-05:00",
+   "displayValue": "2016-07-29T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Thoreau School",
+   "displayValue": "Thoreau School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "360",
+   "displayValue": "360"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0346003-7616-4c68-992f-1e43a8849ef6",
+         "createdOn": "2016-10-03T16:28:53.715-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:28:53.715-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/d1456419-577c-4605-97df-9586bcb9368c",
+   "metadata": "document",
+   "displayValue": "07272016_Rpt_1607L97_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "213B",
+   "displayValue": "213B"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "235-B8",
+   "displayValue": "235-B8"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-22T00:00:00.000-05:00",
+   "displayValue": "2016-07-22T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Kingdom Kidz \/ Keefe Avenue School",
+   "displayValue": "Kingdom Kidz \/ Keefe Avenue School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "235",
+   "displayValue": "235"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0373136-6f31-43cd-b8d4-d0106d3e83be",
+         "createdOn": "2016-10-03T16:57:50.811-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:50.811-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/6c39e8e4-0d7d-4298-a256-06aa52f95eda",
+   "metadata": "document",
+   "displayValue": "008_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "129",
+   "displayValue": "129"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "8-B47",
+   "displayValue": "8-B47"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-21T00:00:00.000-05:00",
+   "displayValue": "2016-07-21T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Marshall High School",
+   "displayValue": "Marshall High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "008",
+   "displayValue": "008"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "D",
+   "displayValue": "D"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f03895a5-c6df-4774-a291-fc0a2653b76d",
+         "createdOn": "2016-10-03T16:28:40.214-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:28:40.214-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/da05a0f2-6fa5-4e79-a3f8-cc6058a7597b",
+   "metadata": "document",
+   "displayValue": "Rpt_1608663_v6.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "1",
+   "displayValue": "1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "256-B96",
+   "displayValue": "256-B96"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-04T00:00:00.000-05:00",
+   "displayValue": "2016-08-04T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Journey House \/ Longfellow School",
+   "displayValue": "Journey House \/ Longfellow School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "256",
+   "displayValue": "256"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f039154f-422c-4675-9d97-d7ada04f1ee7",
+         "createdOn": "2016-10-03T16:11:58.071-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:58.071-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/e272d867-d280-4150-b318-4c3fd0c6ec49",
+   "metadata": "document",
+   "displayValue": "07282016_Rpt_1607N24_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "14",
+   "displayValue": "14"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "170-B023",
+   "displayValue": "170-B023"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-26T00:00:00.000-05:00",
+   "displayValue": "2016-07-26T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Fifty-Third Street School",
+   "displayValue": "Fifty-Third Street School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "170",
+   "displayValue": "170"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f03e3947-5113-43a3-9c51-cd83b802a845",
+         "createdOn": "2016-10-03T18:20:24.315-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:20:24.315-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/551a0758-e2ef-4d5d-b45a-48045f9debe2",
+   "metadata": "document",
+   "displayValue": "301_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "17",
+   "displayValue": "17"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "301-B22",
+   "displayValue": "301-B22"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-09T00:00:00.000-05:00",
+   "displayValue": "2016-08-09T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Parkview School",
+   "displayValue": "Parkview School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "301",
+   "displayValue": "301"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A1",
+   "displayValue": "A1"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f044486b-8ff6-4b42-a669-61ce610c1cf5",
+         "createdOn": "2016-10-03T16:09:54.692-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:09:54.692-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "010F",
+   "displayValue": "010F"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "012-B115",
+   "displayValue": "012-B115"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-28T00:00:00.000-05:00",
+   "displayValue": "2016-07-28T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Bay View Middle and High School",
+   "displayValue": "Bay View Middle and High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "012",
+   "displayValue": "012"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f056d714-2155-473c-8e71-adc66774f54b",
+         "createdOn": "2016-10-03T18:20:30.375-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:20:30.375-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/644093a8-e98f-4769-879b-ffbb5b1433a7",
+   "metadata": "document",
+   "displayValue": "Rpt_1608C36_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 3-3",
+   "displayValue": "CORR 3-3"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "26-B6",
+   "displayValue": "26-B6"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-10T00:00:00.000-05:00",
+   "displayValue": "2016-08-10T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Pulaski High School \/ Carmen SE",
+   "displayValue": "Pulaski High School \/ Carmen SE"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "026",
+   "displayValue": "026"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f05be4a5-a212-4976-9b38-cab0d0da542d",
+         "createdOn": "2016-10-03T16:57:16.779-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:16.779-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/ce35aade-deb3-46b9-a805-5503619f74c4",
+   "metadata": "document",
+   "displayValue": "188_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "1",
+   "displayValue": "1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "188_1_DF_0_61616_A",
+   "displayValue": "188_1_DF_0_61616_A"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-16T00:00:00.000-05:00",
+   "displayValue": "2016-06-16T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Lloyd Barbee Montessori",
+   "displayValue": "Lloyd Barbee Montessori"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "188",
+   "displayValue": "188"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f05bff1e-4731-493c-a203-309b0ed09585",
+         "createdOn": "2016-10-03T16:09:44.488-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:09:44.488-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/6a45e18a-d165-4330-b42a-f9e7a4397150",
+   "metadata": "document",
+   "displayValue": "Rpt_1608C33_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "1A",
+   "displayValue": "1A"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "77-B45",
+   "displayValue": "77-B45"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-11T00:00:00.000-05:00",
+   "displayValue": "2016-08-11T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Auer Avenue School",
+   "displayValue": "Auer Avenue School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "077",
+   "displayValue": "077"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0637d5a-d72f-4574-a2f0-a74eed3b1b4f",
+         "createdOn": "2016-10-03T18:20:20.706-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:20:20.706-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/e272d867-d280-4150-b318-4c3fd0c6ec49",
+   "metadata": "document",
+   "displayValue": "07282016_Rpt_1607N24_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "113D",
+   "displayValue": "113D"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "016-B16",
+   "displayValue": "016-B16"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-26T00:00:00.000-05:00",
+   "displayValue": "2016-07-26T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Obama S C T E",
+   "displayValue": "Obama S C T E"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "016",
+   "displayValue": "016"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f06b73dd-ea89-4c2a-83a9-4032bf3f2e5b",
+         "createdOn": "2016-10-03T18:01:48.696-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:01:48.696-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/97bd462c-3aef-4646-9135-2ae47f436cf5",
+   "metadata": "document",
+   "displayValue": "060_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 2-4",
+   "displayValue": "CORR 2-4"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "60-B97",
+   "displayValue": "60-B97"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-27T00:00:00.000-05:00",
+   "displayValue": "2016-07-27T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Ronald Reagan High School",
+   "displayValue": "Ronald Reagan High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "060",
+   "displayValue": "060"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f06f1151-fbdf-48f3-a0ab-62ab389c80db",
+         "createdOn": "2016-10-03T18:15:54.853-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:15:54.853-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "16",
+   "displayValue": "16"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "244-B12",
+   "displayValue": "244-B12"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-28T00:00:00.000-05:00",
+   "displayValue": "2016-07-28T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Universal School of Milwaukee - Lee",
+   "displayValue": "Universal School of Milwaukee - Lee"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "244",
+   "displayValue": "244"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "C",
+   "displayValue": "C"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f06f907a-31b2-4fd9-b714-eec55cc48915",
+         "createdOn": "2016-10-03T18:01:52.775-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:01:52.775-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/ac4375ad-0156-40c5-8583-067ee5c0c868",
+   "metadata": "document",
+   "displayValue": "Rpt_1608O45_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "207",
+   "displayValue": "207"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "20-B154",
+   "displayValue": "20-B154"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-23T00:00:00.000-05:00",
+   "displayValue": "2016-08-23T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Rufus King High School",
+   "displayValue": "Rufus King High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "020",
+   "displayValue": "020"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "D",
+   "displayValue": "D"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0719433-87cd-4e68-9a9d-a5321177f28d",
+         "createdOn": "2016-10-03T18:15:57.069-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:15:57.069-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/eed5e9f1-dcd9-484e-b5d8-f1ab19df4023",
+   "metadata": "document",
+   "displayValue": "Rpt_1608B32_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "215",
+   "displayValue": "215"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "066-B085",
+   "displayValue": "066-B085"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-06T00:00:00.000-05:00",
+   "displayValue": "2016-08-06T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Universal School of Milwaukee at Webster",
+   "displayValue": "Universal School of Milwaukee at Webster"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "066",
+   "displayValue": "066"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "B",
+   "displayValue": "B"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f07662e7-608d-4c00-8996-6d2b22842fec",
+         "createdOn": "2016-10-03T18:36:31.411-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:31.411-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/a362bbfc-0c50-46b1-a378-762508cb08e5",
+   "metadata": "document",
+   "displayValue": "Rpt_1608882_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "124",
+   "displayValue": "124"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "024-B144",
+   "displayValue": "024-B144"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-02T00:00:00.000-05:00",
+   "displayValue": "2016-08-02T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "North Division High School",
+   "displayValue": "North Division High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "024",
+   "displayValue": "024"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "G",
+   "displayValue": "G"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f077a3f2-db7b-4638-822b-a14c775adeb2",
+         "createdOn": "2016-10-03T16:09:56.582-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:09:56.582-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR. 2-5",
+   "displayValue": "CORR. 2-5"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "012-B47",
+   "displayValue": "012-B47"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-28T00:00:00.000-05:00",
+   "displayValue": "2016-07-28T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Bay View Middle and High School",
+   "displayValue": "Bay View Middle and High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "012",
+   "displayValue": "012"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "B",
+   "displayValue": "B"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f07960ca-33d7-4725-8019-e9a31e005e8f",
+         "createdOn": "2016-10-03T16:11:28.476-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:28.476-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/62005e2a-c0a4-4311-bd1e-963bf43981e8",
+   "metadata": "document",
+   "displayValue": "119_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "111",
+   "displayValue": "111"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "119_111_SA_0_62216_A",
+   "displayValue": "119_111_SA_0_62216_A"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-22T00:00:00.000-05:00",
+   "displayValue": "2016-06-22T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Craig Montessori School",
+   "displayValue": "Craig Montessori School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "119",
+   "displayValue": "119"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f07acf0f-5898-4270-ac21-bcd6fbd25220",
+         "createdOn": "2016-10-03T18:36:20.457-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:20.457-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/1e8d9cef-ba85-4410-8bef-ef4dcaede16f",
+   "metadata": "document",
+   "displayValue": "071_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "EXIT7",
+   "displayValue": "EXIT7"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "71-B94",
+   "displayValue": "71-B94"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-21T00:00:00.000-05:00",
+   "displayValue": "2016-07-21T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Hose BIb",
+   "displayValue": "Hose BIb"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee School of Languages",
+   "displayValue": "Milwaukee School of Languages"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "071",
+   "displayValue": "071"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f07d1617-b655-4b36-b6eb-3cb2abb55f89",
+         "createdOn": "2016-10-03T16:57:21.435-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:21.435-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/da05a0f2-6fa5-4e79-a3f8-cc6058a7597b",
+   "metadata": "document",
+   "displayValue": "Rpt_1608663_v6.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 2-1",
+   "displayValue": "CORR 2-1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "256-B76",
+   "displayValue": "256-B76"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-04T00:00:00.000-05:00",
+   "displayValue": "2016-08-04T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Longfellow School \/ Journey House",
+   "displayValue": "Longfellow School \/ Journey House"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "256",
+   "displayValue": "256"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0811c05-7643-42e8-aa72-38706e26c2e2",
+         "createdOn": "2016-10-03T16:11:08.210-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:08.210-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/4f4f1669-f10f-4242-8d34-7d1bc60af21c",
+   "metadata": "document",
+   "displayValue": "309_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "116B",
+   "displayValue": "116B"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "309-B33",
+   "displayValue": "309-B33"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-02T00:00:00.000-05:00",
+   "displayValue": "2016-08-02T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Carson Academy of Science",
+   "displayValue": "Carson Academy of Science"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "309",
+   "displayValue": "309"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f08dde39-80d7-40fa-a7d1-f9ba15375f40",
+         "createdOn": "2016-10-03T16:12:00.462-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:12:00.462-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/75776c65-3641-4b2f-be69-571a0842b3c5",
+   "metadata": "document",
+   "displayValue": "170_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "037A",
+   "displayValue": "037A"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "170_037A_S_30_63016_B",
+   "displayValue": "170_037A_S_30_63016_B"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-30T00:00:00.000-05:00",
+   "displayValue": "2016-06-30T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Fifty-Third Street School",
+   "displayValue": "Fifty-Third Street School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "170",
+   "displayValue": "170"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "B",
+   "displayValue": "B"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f08eab6c-2ca0-4bc4-ae3e-a317a4154c99",
+         "createdOn": "2016-10-03T16:57:27.513-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:27.513-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/b12ddb68-5c85-41db-b62e-851f47c651ac",
+   "metadata": "document",
+   "displayValue": "003_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "218",
+   "displayValue": "218"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "3_218_DF_0_61616_",
+   "displayValue": "3_218_DF_0_61616_"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-16T00:00:00.000-05:00",
+   "displayValue": "2016-06-16T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Macdowell Montessori School",
+   "displayValue": "Macdowell Montessori School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "003",
+   "displayValue": "003"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f09a8383-c8ba-4a74-9d80-3c949d799e54",
+         "createdOn": "2016-10-03T16:57:28.670-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:28.670-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/b12ddb68-5c85-41db-b62e-851f47c651ac",
+   "metadata": "document",
+   "displayValue": "003_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "Corr B-5",
+   "displayValue": "Corr B-5"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "3_Corr B-5_DF_0_61616_",
+   "displayValue": "3_Corr B-5_DF_0_61616_"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-16T00:00:00.000-05:00",
+   "displayValue": "2016-06-16T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Macdowell Montessori School",
+   "displayValue": "Macdowell Montessori School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "003",
+   "displayValue": "003"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0a1fc86-86a2-4f58-bfa3-0f688812ab52",
+         "createdOn": "2016-10-03T16:10:09.927-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:10:09.927-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/7838e4e9-fef7-4f6a-ab13-523f4254687e",
+   "metadata": "document",
+   "displayValue": "014_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "463A",
+   "displayValue": "463A"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "14_463A_DF_0_7\/14\/16_A",
+   "displayValue": "14_463A_DF_0_7\/14\/16_A"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-14T00:00:00.000-05:00",
+   "displayValue": "2016-07-14T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Bradley Technology and Trade High School",
+   "displayValue": "Bradley Technology and Trade High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "014",
+   "displayValue": "014"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0a91568-88e7-47b3-9d0f-2c5cce380dd9",
+         "createdOn": "2016-10-03T16:57:35.389-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:35.389-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/9adc13c6-963f-43fd-9dc2-30cd2b5e1133",
+   "metadata": "document",
+   "displayValue": "022_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "142S",
+   "displayValue": "142S"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "022-B82",
+   "displayValue": "022-B82"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-04T00:00:00.000-05:00",
+   "displayValue": "2016-08-04T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Madison Academic Campus",
+   "displayValue": "Madison Academic Campus"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "022",
+   "displayValue": "022"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0b1108f-ee2f-4935-8771-c92f58e0700d",
+         "createdOn": "2016-10-03T18:20:16.411-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:20:16.411-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/0a677eac-36a6-4996-9293-f9618b19603c",
+   "metadata": "document",
+   "displayValue": "024_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "112",
+   "displayValue": "112"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "24_112_DF_0_71316_D",
+   "displayValue": "24_112_DF_0_71316_D"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-13T00:00:00.000-05:00",
+   "displayValue": "2016-07-13T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "North Division High School",
+   "displayValue": "North Division High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "024",
+   "displayValue": "024"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "D",
+   "displayValue": "D"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0b84462-3528-4dbb-86ec-4f07c490e91b",
+         "createdOn": "2016-10-03T18:01:48.478-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:01:48.478-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/97bd462c-3aef-4646-9135-2ae47f436cf5",
+   "metadata": "document",
+   "displayValue": "060_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 1-1",
+   "displayValue": "CORR 1-1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "60-B91",
+   "displayValue": "60-B91"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-27T00:00:00.000-05:00",
+   "displayValue": "2016-07-27T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Ronald Reagan High School",
+   "displayValue": "Ronald Reagan High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "060",
+   "displayValue": "060"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0c25269-efe3-406e-99af-882900c6bd70",
+         "createdOn": "2016-10-03T18:38:48.383-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:38:48.383-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/4b47b54c-022c-4f14-9726-f7a21818adf9",
+   "metadata": "document",
+   "displayValue": "062_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 3-3",
+   "displayValue": "CORR 3-3"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "62_CORR 3-3_DF_0_62116_A",
+   "displayValue": "62_CORR 3-3_DF_0_62116_A"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-21T00:00:00.000-05:00",
+   "displayValue": "2016-06-21T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee French Immersion School \/ Milwaukee Leadership Training Center",
+   "displayValue": "Milwaukee French Immersion School \/ Milwaukee Leadership Training Center"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "062",
+   "displayValue": "062"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0c7e3a9-9176-42ce-afca-eed096a404bf",
+         "createdOn": "2016-10-03T16:11:34.273-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:34.273-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/ba5d7ea1-4e6a-4a67-a805-082082f47e98",
+   "metadata": "document",
+   "displayValue": "Rpt_1608M31_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "G03",
+   "displayValue": "G03"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "461-B4",
+   "displayValue": "461-B4"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-17T00:00:00.000-05:00",
+   "displayValue": "2016-08-17T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Delaware Service Center",
+   "displayValue": "Delaware Service Center"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "461",
+   "displayValue": "461"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "B",
+   "displayValue": "B"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0d20b5d-64fe-4052-a169-e7863cfcd038",
+         "createdOn": "2016-10-03T18:15:53.916-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:15:53.916-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/7ece134b-3454-4898-a013-dd92b32fe9c0",
+   "metadata": "document",
+   "displayValue": "199_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "105",
+   "displayValue": "105"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "199_105_SA_30_62216_C",
+   "displayValue": "199_105_SA_30_62216_C"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-22T00:00:00.000-05:00",
+   "displayValue": "2016-06-22T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Universal School of Milwaukee - Green Bay",
+   "displayValue": "Universal School of Milwaukee - Green Bay"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "199",
+   "displayValue": "199"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "C",
+   "displayValue": "C"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0d715b3-0c96-454e-b755-3424760589dd",
+         "createdOn": "2016-10-03T16:28:22.354-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:28:22.354-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/40024065-c554-471b-8d04-a3e1124bb073",
+   "metadata": "document",
+   "displayValue": "750_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "5",
+   "displayValue": "5"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "750-B6",
+   "displayValue": "750-B6"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-02T00:00:00.000-05:00",
+   "displayValue": "2016-08-02T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Holt Playground",
+   "displayValue": "Holt Playground"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "750",
+   "displayValue": "750"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0d8c951-61d4-4881-925c-562d269d9eef",
+         "createdOn": "2016-10-03T18:01:59.197-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:01:59.197-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8160665e-04d1-4ae1-9215-8623df6da447",
+   "metadata": "document",
+   "displayValue": "032_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "106",
+   "displayValue": "106"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "32-B197.1",
+   "displayValue": "32-B197.1"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-09T00:00:00.000-05:00",
+   "displayValue": "2016-08-09T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "South Division High School",
+   "displayValue": "South Division High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "032",
+   "displayValue": "032"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0db7efc-e985-417e-9ac6-75ad46ae7762",
+         "createdOn": "2016-10-03T16:57:42.467-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:42.467-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/7eec3305-c3df-4bf8-bc1a-d896763cac44",
+   "metadata": "document",
+   "displayValue": "265_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 1-9",
+   "displayValue": "CORR 1-9"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "265_CORR 1-9_DF_0_71216_C",
+   "displayValue": "265_CORR 1-9_DF_0_71216_C"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-12T00:00:00.000-05:00",
+   "displayValue": "2016-07-12T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Manitoba School",
+   "displayValue": "Manitoba School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "265",
+   "displayValue": "265"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "C",
+   "displayValue": "C"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0dc173f-7056-445d-a69b-da9aa79de819",
+         "createdOn": "2016-10-03T18:16:02.471-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:16:02.471-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/da05a0f2-6fa5-4e79-a3f8-cc6058a7597b",
+   "metadata": "document",
+   "displayValue": "Rpt_1608663_v6.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "103",
+   "displayValue": "103"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "033-B208",
+   "displayValue": "033-B208"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-02T00:00:00.000-05:00",
+   "displayValue": "2016-08-02T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Vincent High School",
+   "displayValue": "Vincent High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "033",
+   "displayValue": "033"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "C",
+   "displayValue": "C"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0dd9726-bcb1-4c7a-89ee-77bf1580d0ff",
+         "createdOn": "2016-10-03T16:28:43.230-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:28:43.230-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/dc6be660-f60e-4fac-b377-696609c73000",
+   "metadata": "document",
+   "displayValue": "235_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "A108",
+   "displayValue": "A108"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "235_A108_S_0_62916_A",
+   "displayValue": "235_A108_S_0_62916_A"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-29T00:00:00.000-05:00",
+   "displayValue": "2016-06-29T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Keefe Avenue School \/ Kingdom Kidz",
+   "displayValue": "Keefe Avenue School \/ Kingdom Kidz"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "235",
+   "displayValue": "235"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0df8672-eaec-4fd0-960b-d8f06ab71c92",
+         "createdOn": "2016-10-03T18:36:23.160-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:23.160-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "5",
+   "displayValue": "5"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "140-B4",
+   "displayValue": "140-B4"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-28T00:00:00.000-05:00",
+   "displayValue": "2016-07-28T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee Spanish Immersion School K4 and K5",
+   "displayValue": "Milwaukee Spanish Immersion School K4 and K5"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "140",
+   "displayValue": "140"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0e22c75-4406-4d42-9d02-7518f4cdbcc6",
+         "createdOn": "2016-10-03T16:58:04.499-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:58:04.499-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "15",
+   "displayValue": "15"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "051-B7",
+   "displayValue": "051-B7"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-27T00:00:00.000-05:00",
+   "displayValue": "2016-07-27T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee Academy of Chinese Language",
+   "displayValue": "Milwaukee Academy of Chinese Language"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "051",
+   "displayValue": "051"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "G",
+   "displayValue": "G"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0e37b38-57ce-4a18-b4ea-2ef89f645138",
+         "createdOn": "2016-10-03T16:10:33.349-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:10:33.349-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/cc0704ca-cda3-4358-9371-60b5795375f2",
+   "metadata": "document",
+   "displayValue": "Rpt_1608N82_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "213",
+   "displayValue": "213"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "094-B27",
+   "displayValue": "094-B27"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-27T00:00:00.000-05:00",
+   "displayValue": "2016-08-27T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Bryant School",
+   "displayValue": "Bryant School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "094",
+   "displayValue": "094"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0f8ac70-fd78-49b2-b89b-5330f0634f2e",
+         "createdOn": "2016-10-03T18:02:00.103-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:02:00.103-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8160665e-04d1-4ae1-9215-8623df6da447",
+   "metadata": "document",
+   "displayValue": "032_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "124",
+   "displayValue": "124"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "32-B139",
+   "displayValue": "32-B139"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-09T00:00:00.000-05:00",
+   "displayValue": "2016-08-09T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "South Division High School",
+   "displayValue": "South Division High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "032",
+   "displayValue": "032"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0fa1e71-8a48-4e03-af2f-bd5d6357cb80",
+         "createdOn": "2016-10-03T18:01:56.212-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:01:56.212-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/201df982-729e-412e-8a92-890ecdc02c2a",
+   "metadata": "document",
+   "displayValue": "319_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "21",
+   "displayValue": "21"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "319-B19",
+   "displayValue": "319-B19"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-04T00:00:00.000-05:00",
+   "displayValue": "2016-08-04T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Sherman School",
+   "displayValue": "Sherman School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "319",
+   "displayValue": "319"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0fa23ac-cc5e-4b40-9db6-2ed0cb2f29a7",
+         "createdOn": "2016-10-03T16:11:23.460-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:11:23.460-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/4e315841-8660-4c97-b0c8-60e926ba813a",
+   "metadata": "document",
+   "displayValue": "116_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "12",
+   "displayValue": "12"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "116-B24",
+   "displayValue": "116-B24"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-09T00:00:00.000-05:00",
+   "displayValue": "2016-08-09T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet - Aerated",
+   "displayValue": "Faucet - Aerated"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Congress School",
+   "displayValue": "Congress School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "116",
+   "displayValue": "116"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f0fda273-0aef-4893-95f2-4db9bf65f302",
+         "createdOn": "2016-10-03T18:36:24.457-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:24.457-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/c61b8486-4d10-414d-a43f-98ca29ffa824",
+   "metadata": "document",
+   "displayValue": "274_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 2-1",
+   "displayValue": "CORR 2-1"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "274_CORR 2-1_DF_0_61716_F",
+   "displayValue": "274_CORR 2-1_DF_0_61716_F"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-17T00:00:00.000-05:00",
+   "displayValue": "2016-06-17T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Mitchell School",
+   "displayValue": "Mitchell School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "274",
+   "displayValue": "274"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "F",
+   "displayValue": "F"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f112e4c3-810f-402a-98fe-812ccbbeebc5",
+         "createdOn": "2016-10-03T18:36:22.489-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:22.489-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/74ab0f3b-071c-4655-a149-008b1b29e15d",
+   "metadata": "document",
+   "displayValue": "167_Lab_Report.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "CORR 1-3",
+   "displayValue": "CORR 1-3"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "167_CORR 1-3_DF_0_62216_B",
+   "displayValue": "167_CORR 1-3_DF_0_62216_B"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-06-22T00:00:00.000-05:00",
+   "displayValue": "2016-06-22T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee Spanish Immersion School",
+   "displayValue": "Milwaukee Spanish Immersion School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "167",
+   "displayValue": "167"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "B",
+   "displayValue": "B"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f117015b-2a1b-4ae0-a4ff-af53c5d7bbea",
+         "createdOn": "2016-10-03T18:36:32.614-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:32.614-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/a362bbfc-0c50-46b1-a378-762508cb08e5",
+   "metadata": "document",
+   "displayValue": "Rpt_1608882_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "318",
+   "displayValue": "318"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "024-B31",
+   "displayValue": "024-B31"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-08-02T00:00:00.000-05:00",
+   "displayValue": "2016-08-02T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "North Division High School",
+   "displayValue": "North Division High School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "024",
+   "displayValue": "024"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Greater than or equal to 15 ppb",
+   "displayValue": "Greater than or equal to 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "L",
+   "displayValue": "L"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f11a15c8-7919-4853-b2c4-9786dff45bfb",
+         "createdOn": "2016-10-03T18:36:16.770-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:36:16.770-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/8041f6f8-9335-46f5-a635-8dfc6a2a763a",
+   "metadata": "document",
+   "displayValue": "08022016_Rpt_1608179_Final_v2.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "16B",
+   "displayValue": "16B"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "062-B54",
+   "displayValue": "062-B54"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-28T00:00:00.000-05:00",
+   "displayValue": "2016-07-28T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Milwaukee Leadership Training Center \/ Milwaukee French Immersion School",
+   "displayValue": "Milwaukee Leadership Training Center \/ Milwaukee French Immersion School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "062",
+   "displayValue": "062"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "F",
+   "displayValue": "F"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f11ae630-a546-4be3-b4f1-d209446998e5",
+         "createdOn": "2016-10-03T18:20:19.676-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T18:20:19.676-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/e272d867-d280-4150-b318-4c3fd0c6ec49",
+   "metadata": "document",
+   "displayValue": "07282016_Rpt_1607N24_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "33",
+   "displayValue": "33"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "016-B100",
+   "displayValue": "016-B100"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-26T00:00:00.000-05:00",
+   "displayValue": "2016-07-26T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Faucet",
+   "displayValue": "Faucet"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Obama S C T E",
+   "displayValue": "Obama S C T E"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "016",
+   "displayValue": "016"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "C",
+   "displayValue": "C"
+}
+         
+         }
+      },
+      {
+         "nodeRef": "workspace://SpacesStore/f11e960a-4f05-449d-a642-2593f57506e3",
+         "createdOn": "2016-10-03T16:57:57.014-05:00",
+         "createdBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "modifiedOn": "2016-10-03T16:57:57.014-05:00",
+         "modifiedBy":
+         {
+            "value": "admin",
+            "displayValue": "Administrator"
+         },
+         "actionSet": "",
+         "tags": [],
+         "permissions":
+         {
+            "userAccess":
+            {
+               "create": false,
+               "edit": false,
+               "delete": false
+            }
+         },
+         
+         "actionLabels":
+         {
+         },
+         "itemData":
+         {
+            "assoc_mps_reports":
+            [
+               {
+   "value": "workspace:\/\/SpacesStore\/d1456419-577c-4605-97df-9586bcb9368c",
+   "metadata": "document",
+   "displayValue": "07272016_Rpt_1607L97_Final_v1.pdf"
+}
+
+            ]
+,
+            "prop_mps_roomNumber":
+{
+   "value": "21",
+   "displayValue": "21"
+}
+         ,
+            "prop_mps_sampleID":
+{
+   "value": "268-B11",
+   "displayValue": "268-B11"
+}
+         ,
+            "prop_mps_sampleDate":
+{
+   "value": "2016-07-22T00:00:00.000-05:00",
+   "displayValue": "2016-07-22T00:00:00.000-05:00"
+}
+         ,
+            "prop_mps_fixtureType":
+{
+   "value": "Drinking Fountain",
+   "displayValue": "Drinking Fountain"
+}
+         ,
+            "prop_mps_siteName":
+{
+   "value": "Maryland Avenue Montessori School",
+   "displayValue": "Maryland Avenue Montessori School"
+}
+         ,
+            "prop_mps_siteID":
+{
+   "value": "268",
+   "displayValue": "268"
+}
+         ,
+            "prop_mps_status":
+{
+   "value": "Less than 15 ppb",
+   "displayValue": "Less than 15 ppb"
+}
+         ,
+            "prop_mps_fixtureID":
+{
+   "value": "A",
+   "displayValue": "A"
+}
+         
+         }
+      }
+   ]
+}
